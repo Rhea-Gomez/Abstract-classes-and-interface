@@ -1,0 +1,14 @@
+D:\Training\Day11\HomeAutomationSystem\HomeAutomationSystem\bin\Debug\net8.0\HomeAutomationSystem.exe
+D:\Training\Day11\HomeAutomationSystem\HomeAutomationSystem\bin\Debug\net8.0\HomeAutomationSystem.deps.json
+D:\Training\Day11\HomeAutomationSystem\HomeAutomationSystem\bin\Debug\net8.0\HomeAutomationSystem.runtimeconfig.json
+D:\Training\Day11\HomeAutomationSystem\HomeAutomationSystem\bin\Debug\net8.0\HomeAutomationSystem.dll
+D:\Training\Day11\HomeAutomationSystem\HomeAutomationSystem\bin\Debug\net8.0\HomeAutomationSystem.pdb
+D:\Training\Day11\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\net8.0\HomeAutomationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Day11\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\net8.0\HomeAutomationSystem.AssemblyInfoInputs.cache
+D:\Training\Day11\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\net8.0\HomeAutomationSystem.AssemblyInfo.cs
+D:\Training\Day11\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\net8.0\HomeAutomationSystem.csproj.CoreCompileInputs.cache
+D:\Training\Day11\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\net8.0\HomeAutomationSystem.dll
+D:\Training\Day11\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\net8.0\refint\HomeAutomationSystem.dll
+D:\Training\Day11\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\net8.0\HomeAutomationSystem.pdb
+D:\Training\Day11\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\net8.0\HomeAutomationSystem.genruntimeconfig.cache
+D:\Training\Day11\HomeAutomationSystem\HomeAutomationSystem\obj\Debug\net8.0\ref\HomeAutomationSystem.dll
