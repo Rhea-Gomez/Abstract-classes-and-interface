@@ -1,0 +1,14 @@
+D:\Training\Day10\AbstractClassDemo\AbstractClassDemo\bin\Debug\net8.0\AbstractClassDemo.exe
+D:\Training\Day10\AbstractClassDemo\AbstractClassDemo\bin\Debug\net8.0\AbstractClassDemo.deps.json
+D:\Training\Day10\AbstractClassDemo\AbstractClassDemo\bin\Debug\net8.0\AbstractClassDemo.runtimeconfig.json
+D:\Training\Day10\AbstractClassDemo\AbstractClassDemo\bin\Debug\net8.0\AbstractClassDemo.dll
+D:\Training\Day10\AbstractClassDemo\AbstractClassDemo\bin\Debug\net8.0\AbstractClassDemo.pdb
+D:\Training\Day10\AbstractClassDemo\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Day10\AbstractClassDemo\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.AssemblyInfoInputs.cache
+D:\Training\Day10\AbstractClassDemo\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.AssemblyInfo.cs
+D:\Training\Day10\AbstractClassDemo\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.csproj.CoreCompileInputs.cache
+D:\Training\Day10\AbstractClassDemo\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.dll
+D:\Training\Day10\AbstractClassDemo\AbstractClassDemo\obj\Debug\net8.0\refint\AbstractClassDemo.dll
+D:\Training\Day10\AbstractClassDemo\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.pdb
+D:\Training\Day10\AbstractClassDemo\AbstractClassDemo\obj\Debug\net8.0\AbstractClassDemo.genruntimeconfig.cache
+D:\Training\Day10\AbstractClassDemo\AbstractClassDemo\obj\Debug\net8.0\ref\AbstractClassDemo.dll
