@@ -1,0 +1,14 @@
+D:\Training\Assignments\DeadlyDiamondOfDeathProblem\DeadlyDiamondOfDeathProblem\bin\Debug\net8.0\DeadlyDiamondOfDeathProblem.exe
+D:\Training\Assignments\DeadlyDiamondOfDeathProblem\DeadlyDiamondOfDeathProblem\bin\Debug\net8.0\DeadlyDiamondOfDeathProblem.deps.json
+D:\Training\Assignments\DeadlyDiamondOfDeathProblem\DeadlyDiamondOfDeathProblem\bin\Debug\net8.0\DeadlyDiamondOfDeathProblem.runtimeconfig.json
+D:\Training\Assignments\DeadlyDiamondOfDeathProblem\DeadlyDiamondOfDeathProblem\bin\Debug\net8.0\DeadlyDiamondOfDeathProblem.dll
+D:\Training\Assignments\DeadlyDiamondOfDeathProblem\DeadlyDiamondOfDeathProblem\bin\Debug\net8.0\DeadlyDiamondOfDeathProblem.pdb
+D:\Training\Assignments\DeadlyDiamondOfDeathProblem\DeadlyDiamondOfDeathProblem\obj\Debug\net8.0\DeadlyDiamondOfDeathProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Assignments\DeadlyDiamondOfDeathProblem\DeadlyDiamondOfDeathProblem\obj\Debug\net8.0\DeadlyDiamondOfDeathProblem.AssemblyInfoInputs.cache
+D:\Training\Assignments\DeadlyDiamondOfDeathProblem\DeadlyDiamondOfDeathProblem\obj\Debug\net8.0\DeadlyDiamondOfDeathProblem.AssemblyInfo.cs
+D:\Training\Assignments\DeadlyDiamondOfDeathProblem\DeadlyDiamondOfDeathProblem\obj\Debug\net8.0\DeadlyDiamondOfDeathProblem.csproj.CoreCompileInputs.cache
+D:\Training\Assignments\DeadlyDiamondOfDeathProblem\DeadlyDiamondOfDeathProblem\obj\Debug\net8.0\DeadlyDiamondOfDeathProblem.dll
+D:\Training\Assignments\DeadlyDiamondOfDeathProblem\DeadlyDiamondOfDeathProblem\obj\Debug\net8.0\refint\DeadlyDiamondOfDeathProblem.dll
+D:\Training\Assignments\DeadlyDiamondOfDeathProblem\DeadlyDiamondOfDeathProblem\obj\Debug\net8.0\DeadlyDiamondOfDeathProblem.pdb
+D:\Training\Assignments\DeadlyDiamondOfDeathProblem\DeadlyDiamondOfDeathProblem\obj\Debug\net8.0\DeadlyDiamondOfDeathProblem.genruntimeconfig.cache
+D:\Training\Assignments\DeadlyDiamondOfDeathProblem\DeadlyDiamondOfDeathProblem\obj\Debug\net8.0\ref\DeadlyDiamondOfDeathProblem.dll
